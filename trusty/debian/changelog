@@ -1,3 +1,9 @@
+gazebo7 (7.9.0-1~trusty) trusty; urgency=medium
+
+  * gazebo7 7.9.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 24 Nov 2017 15:46:37 +0100
+
 gazebo7 (7.8.0-1~trusty) trusty; urgency=medium
 
   * gazebo7 7.8.0-1 release
