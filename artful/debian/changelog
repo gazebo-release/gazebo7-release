@@ -1,3 +1,9 @@
+gazebo7 (7.10.0-1~artful) artful; urgency=medium
+
+  * gazebo7 7.10.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 08 Feb 2018 10:45:32 -0800
+
 gazebo7 (7.9.0-2~artful) artful; urgency=medium
 
   * gazebo7 7.9.0-2 release
