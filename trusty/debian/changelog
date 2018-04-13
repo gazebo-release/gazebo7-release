@@ -1,3 +1,9 @@
+gazebo7 (7.12.0-1~trusty) trusty; urgency=medium
+
+  * gazebo7 7.12.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 13 Apr 2018 02:48:24 -0700
+
 gazebo7 (7.11.0-1~trusty) trusty; urgency=medium
 
   * gazebo7 7.11.0-1 release
