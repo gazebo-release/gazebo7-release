@@ -1,3 +1,9 @@
+gazebo7 (7.13.1-1~artful) artful; urgency=medium
+
+  * gazebo7 7.13.1-1 release
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Fri, 15 Jun 2018 15:00:20 -0700
+
 gazebo7 (7.13.0-1~artful) artful; urgency=medium
 
   * gazebo7 7.13.0-1 release
