@@ -1,3 +1,9 @@
+gazebo7 (7.14.0-1~xenial) xenial; urgency=medium
+
+  * gazebo7 7.14.0-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Fri, 27 Jul 2018 14:22:11 -0700
+
 gazebo7 (7.13.1-1~xenial) xenial; urgency=medium
 
   * gazebo7 7.13.1-1 release
